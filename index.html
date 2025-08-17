@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kalpesh's Gallery</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Navbar -->
+  <header>
+    <nav class="navbar">
+      <div class="logo">✨ My Gallery</div>
+    </nav>
+  </header>
+
+  <!-- Gallery -->
+  <main class="gallery">
+    <div class="gallery-grid">
+      <img src="assets/images/img1.jpg" alt="Gallery Image 1" class="gallery-item">
+      <img src="assets/images/img2.jpg" alt="Gallery Image 2" class="gallery-item">
+      <img src="assets/images/img3.jpg" alt="Gallery Image 3" class="gallery-item">
+      <img src="assets/images/img4.jpg" alt="Gallery Image 4" class="gallery-item">
+      <img src="assets/images/img5.jpg" alt="Gallery Image 5" class="gallery-item">
+    </div>
+  </main>
+
+  <!-- Modal Viewer -->
+  <div class="modal" id="imageModal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modalImage" alt="Expanded view">
+    <div class="navigation">
+      <span class="prev">&#10094;</span>
+      <span class="next">&#10095;</span>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Kalpesh Nimba Dahite | Gallery Project</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

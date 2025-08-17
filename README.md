@@ -1,7 +1,7 @@
 # 🖼️ Image Gallery Website
 This project is a modern image gallery made with HTML, CSS, and JavaScript. It features a responsive grid layout, smooth navigation, and a fullscreen lighthouse-style view for images. Designed to be minimal, elegant, and user-friendly.
 ## 🔗 Live Demo  
-[View Image Gallery](https://kalpesh269.github.io/image-gallery/)
+[View Image Gallery](https://kalpesh269.github.io/CodeAlpha_ImageGallery/)
 
 ---
 

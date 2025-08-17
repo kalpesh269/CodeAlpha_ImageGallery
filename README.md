@@ -1,2 +1,2 @@
 # CodeAlpha_ImageGallery
-A clean, responsive image gallery built with HTML, CSS, and JavaScript featuring a modern layout and lighthouse-style view.
+This project is a modern image gallery made with HTML, CSS, and JavaScript. It features a responsive grid layout, smooth navigation, and a fullscreen lighthouse-style view for images. Designed to be minimal, elegant, and user-friendly.
